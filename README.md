@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **codingid6@gmail.com**
 
-- ⚡ Fun fact **I know**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tusharg60803242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharg60803242" height="30" width="40" /></a>
