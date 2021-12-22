@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://tushar5526.github.io/">Tushar Gupta</a></h1>
 <h3 align="center">A passionate software developer from India :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar5526&label=Profile%20views&color=0e75b6&style=flat" alt="tushar5526" /> </p>
