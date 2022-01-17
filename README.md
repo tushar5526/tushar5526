@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar5526&label=Profile%20views&color=0e75b6&style=flat" alt="tushar5526" /> </p>
 
-- 🔭 I’m currently working on [this cool automation setup](https://github.com/InnogeeksOrganization/coderspree)
+- 🔭 I’m currently finding and fixing bugs on opensourced projects :)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
