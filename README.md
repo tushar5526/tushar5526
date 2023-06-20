@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently finding and fixing bugs on opensourced projects :)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently on a hunt to find good opensource projects to learn and contribute back. 
 
 - 🤝 I’m looking for help with [Autotype](https://github.com/tushar5526/Autotype)
 
