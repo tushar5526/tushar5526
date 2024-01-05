@@ -3,7 +3,7 @@
  <br>🛠️ Help me build [Sarthi](https://github.com/tushar5526/sarthi) & [Sarthi-Deploy](https://github.com/tushar5526/sarthi-deploy)
  <br>🌱 I’m currently learning Python & Go
  <br>💬 Ask me about OpenSource & Engineering :D
- <br>⚡ Fun fact - I made and published a [game on playstore](https://play.google.com/store/apps/details?id=com.DivergentGames.MissilesGo)
+ <br>⚡ Fun fact - I made and published a [game on playstore](https://play.google.com/store/apps/details?id=com.DivergentGames.MissilesGo) back in High School (good old days)
 
 ---
 
