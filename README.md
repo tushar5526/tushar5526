@@ -1,3 +1,9 @@
+<p align='center'>
+<img src='https://github.com/tushar5526/tushar5526/assets/30565750/fbd506db-53d1-4eb0-933f-3173df77140b' width=300>
+
+</p>
+
+
 # 💫 About Me:
  👯 Help me maintain [Autotype](https://github.com/tushar5526/Autotype), [p5py](https://github.com/p5py/p5), [pep8speaks](https://github.com/pep8speaks-org/pep8speaks) 
  <br>🛠️ Help me build [Sarthi](https://github.com/tushar5526/sarthi) & [Sarthi-Deploy](https://github.com/tushar5526/sarthi-deploy)
