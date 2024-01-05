@@ -1,5 +1,9 @@
 # 💫 About Me:
- 👯 Help me maintain [Autotype](https://github.com/tushar5526/Autotype), [p5py](https://github.com/p5py/p5), [pep8speaks](https://github.com/pep8speaks-org/pep8speaks) <br>🌱 I’m currently learning Python & Go<br>💬 Ask me about OpenSource & Engineering :D<br>⚡ Fun fact - I made and published a [game on playstore](https://play.google.com/store/apps/details?id=com.DivergentGames.MissilesGo)
+ 👯 Help me maintain [Autotype](https://github.com/tushar5526/Autotype), [p5py](https://github.com/p5py/p5), [pep8speaks](https://github.com/pep8speaks-org/pep8speaks) 
+ <br>🛠️ Help me build [Sarthi](https://github.com/tushar5526/sarthi) & [Sarthi-Deploy](https://github.com/tushar5526/sarthi-deploy)
+ <br>🌱 I’m currently learning Python & Go
+ <br>💬 Ask me about OpenSource & Engineering :D
+ <br>⚡ Fun fact - I made and published a [game on playstore](https://play.google.com/store/apps/details?id=com.DivergentGames.MissilesGo)
 
 ---
 
