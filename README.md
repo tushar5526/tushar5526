@@ -20,7 +20,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tushar5526&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tushar5526&show_icons=true)<br/>
 
 <!-- 
 
